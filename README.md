@@ -16,8 +16,9 @@ Me chamo Thiago Silva, Curto jogos de ritmo e programação.
 
 
 ##
-
-![asdasdasdasdasdasda GITIGIGITIITTIITT](https://user-images.githubusercontent.com/116782583/208207639-f412320e-c5ab-4c36-a9cb-f4d141fbdd4a.gif)
+ 
+ 
+![etogif](https://user-images.githubusercontent.com/86689822/229072867-53200424-b844-4dee-88a9-d76dc0c5862b.gif)
 
 
 
