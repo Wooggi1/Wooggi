@@ -20,10 +20,11 @@ Me chamo Thiago Silva, Curto jogos de ritmo e programação.
 
 ##
  
- 
+img[alt=etogif] { height: 200px; }
+img[alt=lain-gif] { height: 200px; }
 ![etogif](https://user-images.githubusercontent.com/86689822/229072867-53200424-b844-4dee-88a9-d76dc0c5862b.gif)
 ![lain-gif](https://github.com/Wooggi1/Wooggi1/assets/86689822/8160f251-6830-49ec-88ff-83e92fe13146)
- img[alt=etogif] { height: 200px; }
+
 
 
 
