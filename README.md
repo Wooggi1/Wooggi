@@ -9,7 +9,7 @@ Me chamo Thiago Silva, Curto jogos de ritmo e programação.
 - Personagem favorita: Eto Yoshimura
  
  
- 
+ <br><br>
 <div align="center">
   <a href="https://github.com/Wooggi1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wooggi1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
