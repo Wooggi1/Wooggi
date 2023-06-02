@@ -14,7 +14,8 @@ Me chamo Thiago Silva, Curto jogos de ritmo e programação.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wooggi1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
+- Jogo OSU!, CS GO, Valorant e jogos sobrevivencia
+- Anime favorito: Serial Experiments Lain
 
 ##
  
