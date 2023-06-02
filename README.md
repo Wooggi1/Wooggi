@@ -1,8 +1,9 @@
 Me chamo Thiago Silva, Curto jogos de ritmo e programação.
  
-- 🔭 Estudante de engenharia de software
-- 🌱 Estudando Python, SQL e Django
-- 🎓 Universidade Catolica De Brasilia (UCB)
+- Atualmente no 3º Semestre de Engenharia de Software
+- Universidade Católica de Brasília
+- Aprendendo Python, SQL, Django
+- Quero um dia trabalhar com machine learning e data science
 
  
  
