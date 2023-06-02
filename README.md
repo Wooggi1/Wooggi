@@ -16,11 +16,13 @@ Me chamo Thiago Silva, Curto jogos de ritmo e programação.
 
 - Jogo OSU!, CS GO, Valorant e jogos sobrevivencia
 - Anime favorito: Serial Experiments Lain
+- Personagem favorita: Eto Yoshimura
 
 ##
  
  
 ![etogif](https://user-images.githubusercontent.com/86689822/229072867-53200424-b844-4dee-88a9-d76dc0c5862b.gif)
+![lain-gif](https://github.com/Wooggi1/Wooggi1/assets/86689822/8160f251-6830-49ec-88ff-83e92fe13146)
 
 
 
