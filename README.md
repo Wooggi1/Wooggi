@@ -4,7 +4,9 @@ Me chamo Thiago Silva, Curto jogos de ritmo e programação.
 - Universidade Católica de Brasília
 - Aprendendo Python, SQL, Django
 - Quero um dia trabalhar com machine learning e data science
-
+- Jogo OSU!, CS GO, Valorant e jogos sobrevivencia
+- Anime favorito: Serial Experiments Lain
+- Personagem favorita: Eto Yoshimura
  
  
  
@@ -14,9 +16,7 @@ Me chamo Thiago Silva, Curto jogos de ritmo e programação.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wooggi1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-- Jogo OSU!, CS GO, Valorant e jogos sobrevivencia
-- Anime favorito: Serial Experiments Lain
-- Personagem favorita: Eto Yoshimura
+
 
 ##
  
