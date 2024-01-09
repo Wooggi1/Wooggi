@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img width="460" height="300" src="https://user-images.githubusercontent.com/86689822/229072867-53200424-b844-4dee-88a9-d76dc0c5862b.gif">
+   <img width="460" height="420" src="https://github.com/Wooggi1/Wooggi1/assets/86689822/bfe1e0d1-e8f0-4b59-8893-4129d9e73707">
 </p>
 
 
