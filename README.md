@@ -1,29 +1,7 @@
-Me chamo Thiago Silva, Curto jogos de ritmo e programação.
- 
-- Atualmente no 4º Semestre de Engenharia de Software
-- Universidade Católica de Brasília
-- Aprendendo Python, SQL, Django
-- Quero um dia trabalhar com machine learning e data science
-- Jogo OSU!, CS GO, Valorant e jogos sobrevivencia
-- Anime favorito: Serial Experiments Lain
-- Personagem favorita: Eto Yoshimura
- 
- 
- <br><br>
-<div align="center">
-  <a href="https://github.com/Wooggi1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wooggi1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wooggi1&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
-
-##
- 
 
 
 ![etogif](https://user-images.githubusercontent.com/86689822/229072867-53200424-b844-4dee-88a9-d76dc0c5862b.gif)
-![lain-gif](https://github.com/Wooggi1/Wooggi1/assets/86689822/8160f251-6830-49ec-88ff-83e92fe13146)
+
 
 
 
