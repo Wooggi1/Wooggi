@@ -1,6 +1,6 @@
 
 
-\t\t![etogif](https://user-images.githubusercontent.com/86689822/229072867-53200424-b844-4dee-88a9-d76dc0c5862b.gif)
+![etogif](https://user-images.githubusercontent.com/86689822/229072867-53200424-b844-4dee-88a9-d76dc0c5862b.gif)
 
 
 
